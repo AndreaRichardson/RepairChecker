@@ -9,6 +9,7 @@ Product search for testing purposes.
 Returns up to 100 test records
 
 Query API: https://mockend.com/AndreaRichardson/RepairChecker/Repair?product_contains={product}&country_eq={country}&language_eq={language}
+
 Example: https://mockend.com/AndreaRichardson/RepairChecker/Repair?product_contains=TX&country_eq=RO&language_eq=fi
 
 ## Repair Checker
