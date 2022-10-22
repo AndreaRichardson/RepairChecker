@@ -163,6 +163,15 @@
         			"min": "2010-01-01T00:00:00Z",
         			"max": "2022-12-31T23:59:59Z"
       			}
-    		}
+    		},
+		"faultype": {
+			"string": [
+				"11 Power problem or not operating",
+				"Fault Type 1",
+				"Fault Type 2",
+				"Fault Type 3",
+				"Fault Type 4"
+			]
+		},
 	}
 }
