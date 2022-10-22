@@ -173,11 +173,28 @@
 				"Fault Type 4"
 			]
 		},
-		"body": {
+		"description": {
       			"loremParagraphs": {
         			"minLength": 10,
         			"maxLength": 100
       			}
-    		}
+    		},
+		"customerstatus": {
+			"string": [
+				"Repair ticket submitted",
+				"Home service dispatching", 
+				"Pick-up registered",
+				"Arrived at repair shop",
+				"Repair in progress",
+				"Repair completed",
+				"Ready for return",
+				"Returned to customer",
+				"Schedule new home service",
+				"Cost estimation created",
+				"Cost estimation accepted",
+				"Cost estimation not accepted - return to cx",
+				"Cost estimation not accepted - scraped"
+			]
+		}
 	}
 }
