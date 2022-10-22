@@ -1,6 +1,6 @@
 {
 	"Repair": {
-		"modelnumber": {
+		"modelNumber": {
 			"string": [
 				"EW-DJ40 - ORAL CARE",
 				"EW-DL75 - ORAL CARE",
@@ -105,7 +105,7 @@
 				"TX-65GZW1004 - OLED TELEVISION"
 			]
 		},
-		"serialnumber": {
+		"serialNumber": {
 			"string": [
 				"serial001",
 				"serial002",
@@ -121,7 +121,7 @@
 				"Dealer 004"
 			]
 		},
-		"purchasecountry": {
+		"purchaseCountry": {
       			"string": [
 	        		"BE",
 				"BG",
@@ -152,19 +152,19 @@
 				"TR"
 	      		]
     		},
-		"purchasedate": {
+		"purchaseDate": {
       			"dateTime": {
         			"min": "2010-01-01T00:00:00Z",
         			"max": "2022-12-31T23:59:59Z"
       			}
     		},
-		"dateregistered": {
+		"dateRegistered": {
       			"dateTime": {
         			"min": "2010-01-01T00:00:00Z",
         			"max": "2022-12-31T23:59:59Z"
       			}
     		},
-		"faultype": {
+		"faulType": {
 			"string": [
 				"11 Power problem or not operating",
 				"Fault Type 1",
@@ -179,7 +179,7 @@
         			"maxLength": 100
       			}
     		},
-		"customerstatus": {
+		"customerStatus": {
 			"string": [
 				"Repair ticket submitted",
 				"Home service dispatching", 
@@ -213,22 +213,22 @@
 				"615 The Estimation of costs is not accepted. (The device is scraped by the workshop.)"
 			]
 		},
-		"repairid": {
+		"repairID": {
 			"regexp": "([R])[0-9]{9}"
 		},
-		"statusdate": {
+		"statusDate": {
       			"dateTime": {
         			"min": "2010-01-01T00:00:00Z",
         			"max": "2022-12-31T23:59:59Z"
 			}
 		},
-		"repairstartdate": {
+		"repairStartdate": {
       			"dateTime": {
         			"min": "2010-01-01T00:00:00Z",
         			"max": "2022-12-31T23:59:59Z"
 			}
 		},
-		"repairenddate": {
+		"repairEnddate": {
       			"dateTime": {
         			"min": "2010-01-01T00:00:00Z",
         			"max": "2022-12-31T23:59:59Z"
@@ -239,6 +239,9 @@
 		},
 		"emailAddress": { 
 			 "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" 
+		}
+		"postCode": { 
+			 "regexp": "/^[a-z]{1,2}\d[a-z\d]?\s*\d[a-z]{2}$/i" 
 		}
 	}
 }
