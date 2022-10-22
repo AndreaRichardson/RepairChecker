@@ -105,6 +105,14 @@
 				"TX-65GZW1004 - OLED TELEVISION"
 			]
 		},
+		"serialnumber": {
+			"string": [
+				"serial001",
+				"serial002",
+				"serial003",
+				"serial004"
+			]
+		}
 		"purchase_country": {
       			"string": [
 	        		"BE",
