@@ -195,6 +195,23 @@
 				"Cost estimation not accepted - return to cx",
 				"Cost estimation not accepted - scraped"
 			]
+		},
+		"status": {
+			"string": [
+				"TS",
+				"221 under dispatching of home service",
+				"322 pickup registered",
+				"332 Pickup Delivery was successful - set arrived at destination",
+				"212 repair in process",
+				"231 repair finished",
+				"311 The device is ready for return delivery / pickup",
+				"333 Return Delivery was successful - set arrived at destination",
+				"223 schedule new home service",
+				"611 Cost estimation created",
+				"613 The estimation of costs is accepted.",
+				"614 The Estimation of costs is not accepted. (The device is sent back to the customer.)",
+				"615 The Estimation of costs is not accepted. (The device is scraped by the workshop.)"
+			]
 		}
 	}
 }
