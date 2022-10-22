@@ -235,11 +235,62 @@
 			}
 		},
 		"lastName": { 
-			"regexp": "[A-Z][a-z]{5,10}" 
+			"string": [
+				"Foster",
+				"Lewis",
+				"Dixon",
+				"Velazquez",
+				"Parsons",
+				"Ortiz",
+				"Collier",
+				"Zamora",
+				"Wallace",
+				"King",
+				"Sellers",
+				"Powell",
+				"Hopkins",
+				"Phelps",
+				"Boyer",
+				"Pugh",
+				"Hodge",
+				"Hurley",
+				"Wise",
+				"Green",
+				"Johnston",
+				"Downs",
+				"Mccann",
+				"Hodges",
+				"Pratt",
+				"Bradford",
+				"Freeman",
+				"Hutchinson",
+				"Shields",
+				"Matthews",
+				"Russell",
+				"Humphrey",
+				"Roth",
+				"Cowan",
+				"Mullins",
+				"Jackson",
+				"Camacho",
+				"Sullivan",
+				"Barajas",
+				"Spencer",
+				"Schmidt",
+				"Tanner",
+				"Mccarty",
+				"Moss",
+				"Harper",
+				"Wong",
+				"Donovan",
+				"Oliver",
+				"Sweeney",
+				"Conley"
+			]
 		},
 		"emailAddress": { 
 			 "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" 
-		}
+		},
 		"postCode": { 
 			 "regexp": "/^[a-z]{1,2}\d[a-z\d]?\s*\d[a-z]{2}$/i" 
 		}
