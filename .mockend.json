@@ -480,6 +480,35 @@
 				 "GB",
 				 "TR"
       			]
-    		}
+    		},
+		"language": {
+	    		"string": [
+				"fr",
+				"nl",
+				"bg",
+				"de",
+				"cs",
+				"da",
+				"et",
+				"es",
+				"fi",
+				"fr",
+				"hr",
+				"hu",
+				"it",
+				"lt",
+				"lv",
+				"no",
+				"pl",
+				"pt",
+				"ro",
+				"rs",
+				"se",
+				"si",
+				"sk",
+				"en",
+				"tr"
+	    		]
+		}
 	}
 }
