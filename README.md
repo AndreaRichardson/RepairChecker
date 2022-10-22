@@ -1,15 +1,17 @@
-# Product Lookup
-Product search for testing purposes.
+# Repair Checker API
+Repair Check Results for testing purposes across product lookup and repair details
 Returns up to 100 test records
 
 Full API: https://mockend.com/AndreaRichardson/RepairChecker/Repair
 
-Query API: https://mockend.com/AndreaRichardson/RepairChecker/Repair?product_contains=TH&country_eq=IT&language_eq=se
-
-# Repair Checker
-Repair Check Results for testing purposes.
+## Product Lookup
+Product search for testing purposes.
 Returns up to 100 test records
 
-Full API: 
+Query API: https://mockend.com/AndreaRichardson/RepairChecker/Repair?product_contains=TH&country_eq=IT&language_eq=se
+
+## Repair Checker
+Repair Check Results for testing purposes.
+Returns up to 100 test records
 
 Query API: 
