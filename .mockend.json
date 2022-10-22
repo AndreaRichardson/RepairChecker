@@ -216,12 +216,6 @@
 		"repairID": {
 			"regexp": "([R])[0-9]{9}"
 		},
-		"repairID": {
-			"int": {
-				"min": 000000001, 
-				"max": 999999999 
-			}
-		},
 		"statusDate": {
       			"dateTime": {
         			"min": "2010-01-01T00:00:00Z",
