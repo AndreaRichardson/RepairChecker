@@ -212,6 +212,9 @@
 				"614 The Estimation of costs is not accepted. (The device is sent back to the customer.)",
 				"615 The Estimation of costs is not accepted. (The device is scraped by the workshop.)"
 			]
+		},
+		"repairid": {
+			"regexp": "#[0-9A-F]{6}"
 		}
 	}
 }
