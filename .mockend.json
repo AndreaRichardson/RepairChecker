@@ -112,8 +112,8 @@
 				"serial003",
 				"serial004"
 			]
-		}
-		"purchase_country": {
+		},
+		"purchasecountry": {
       			"string": [
 	        		"BE",
 				"BG",
