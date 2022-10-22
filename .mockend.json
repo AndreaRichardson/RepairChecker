@@ -173,5 +173,11 @@
 				"Fault Type 4"
 			]
 		},
+		"body": {
+      			"loremParagraphs": {
+        			"minLength": 10,
+        			"maxLength": 100
+      			}
+    		}
 	}
 }
