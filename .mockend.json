@@ -113,6 +113,14 @@
 				"serial004"
 			]
 		},
+		"dealer": {
+			"string": [
+				"Dealer 001",
+				"Dealer 002",
+				"Dealer 003",
+				"Dealer 004"
+			]
+		},
 		"purchasecountry": {
       			"string": [
 	        		"BE",
