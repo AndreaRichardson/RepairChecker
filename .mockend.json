@@ -290,9 +290,6 @@
 		},
 		"emailAddress": { 
 			 "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" 
-		},
-		"postCode": { 
-			 "regexp": "/^[a-z]{1,2}\d[a-z\d]?\s*\d[a-z]{2}$/i" 
 		}
 	}
 }
